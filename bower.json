@@ -1,0 +1,20 @@
+{
+  "name": "ember-widgets-gfk-bower",
+  "version": "0.0.0",
+  "authors": [
+    "aleksandar.georgiev@gfk.com"
+  ],
+  "main": "ember-widgets.js",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "ember-list-view" : "C:/Users/aleksandar.georgiev/src/list-view-jason-bower/.git"
+  }
+}
