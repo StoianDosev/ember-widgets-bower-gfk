@@ -15,6 +15,6 @@
     "tests"
   ],
   "dependencies": {
-    "ember-list-view" : "C:/Users/aleksandar.georgiev/src/list-view-jason-bower/.git"
+    "list-view-gfk": "latest"
   }
 }
