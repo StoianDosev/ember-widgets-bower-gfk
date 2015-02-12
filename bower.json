@@ -6,7 +6,6 @@
   ],
   "main": "ember-widgets.js",
   "license": "MIT",
-  "private": true,
   "ignore": [
     "**/.*",
     "node_modules",
